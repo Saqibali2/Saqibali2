@@ -1,10 +1,7 @@
 # Hey! I am Saqib Ali 👋  
 
 📬 **Find me at**  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Saqibali2)  
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01d3a5576461fac6cf)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saqibali35/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:saqibali.0748@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Saqibali2)  [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01d3a5576461fac6cf)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saqibali35/)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:saqibali.0748@gmail.com)  
 
 ---
 
