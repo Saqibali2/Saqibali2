@@ -3,7 +3,6 @@
 🎯 **Full Stack Web Developer | Cybersecurity Enthusiast | Brand Builder | CMS & SEO Expert**  
 
 📍 From **Pakistan**, helping global businesses grow with technology, design, and digital strategy.  
-💼 Founder of **Zyvor** — a software and digital solutions agency built for modern brands.  
 
 ---
 
