@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-label="Saqib Ali systems growth map banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071018"/>
+      <stop offset="100%" stop-color="#0E1F2F"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .pulse{animation:pulse 2.6s ease-in-out infinite;}
+      .ride{stroke-dasharray:12 14; animation:ride 14s linear infinite;}
+      .dot1{animation:move1 10s linear infinite;}
+      .dot2{animation:move2 13s linear infinite;}
+      .glowDot{animation:softblink 2.4s ease-in-out infinite;}
+      @keyframes pulse{0%,100%{opacity:.78}50%{opacity:1}}
+      @keyframes ride{from{stroke-dashoffset:0}to{stroke-dashoffset:-240}}
+      @keyframes move1{0%{transform:translate(0,0)}25%{transform:translate(135px,-40px)}50%{transform:translate(300px,-15px)}75%{transform:translate(510px,20px)}100%{transform:translate(760px,-42px)}}
+      @keyframes move2{0%{transform:translate(0,0)}25%{transform:translate(100px,32px)}50%{transform:translate(230px,-18px)}75%{transform:translate(420px,40px)}100%{transform:translate(648px,8px)}}
+      @keyframes softblink{0%,100%{opacity:.65}50%{opacity:1}}
+      @media (prefers-reduced-motion: reduce){.pulse,.ride,.dot1,.dot2,.glowDot{animation:none!important}}
+    </style>
+  </defs>
+
+  <rect width="1400" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="360" rx="28" fill="none" stroke="#25455F" stroke-width="2"/>
+
+  <!-- subtle corner heading instead of the removed big title -->
+  <text x="70" y="78" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#39F6FF">/ product systems journey /</text>
+
+  <path class="ride" d="M90 242 C180 242, 250 150, 338 150 S490 230, 580 230 S745 138, 834 138 S980 248, 1086 248 S1220 160, 1300 160" fill="none" stroke="#47A4FF" stroke-width="6" stroke-linecap="round"/>
+  <path class="ride" d="M90 282 C180 282, 262 300, 340 300 S502 190, 594 190 S740 274, 858 274 S1012 106, 1136 106 S1240 118, 1300 118" fill="none" stroke="#8D71FF" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+
+  <g class="pulse">
+    <circle cx="90" cy="242" r="10" fill="#39F6FF"/>
+    <text x="72" y="220" font-family="Courier New, monospace" font-size="14" font-weight="700" fill="#F7FAFF">START</text>
+
+    <circle cx="338" cy="150" r="12" fill="#46E3A4"/>
+    <text x="310" y="126" font-family="Courier New, monospace" font-size="14" font-weight="700" fill="#F7FAFF">real work</text>
+
+    <circle cx="580" cy="230" r="12" fill="#FFD76A"/>
+    <text x="523" y="258" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#F7FAFF">Cargo Connect</text>
+
+    <circle cx="834" cy="138" r="12" fill="#8D71FF"/>
+    <text x="786" y="112" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#F7FAFF">Legal Assist</text>
+
+    <circle cx="1086" cy="248" r="12" fill="#39F6FF"/>
+    <text x="1035" y="278" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#F7FAFF">DialGuru</text>
+
+    <circle cx="1300" cy="160" r="13" fill="#FF6B6B" filter="url(#glow)"/>
+    <text x="1128" y="136" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#F7FAFF">next stop: scale, build more, do more</text>
+  </g>
+
+  <g class="dot1" transform="translate(90,242)">
+    <circle r="7" fill="#FFFFFF" filter="url(#glow)"/>
+  </g>
+  <g class="dot2" transform="translate(90,282)">
+    <circle r="6" fill="#39F6FF" filter="url(#glow)"/>
+  </g>
+
+  <g class="glowDot" filter="url(#glow)">
+    <circle cx="402" cy="46" r="7" fill="#39F6FF"/>
+  </g>
+
+  <text x="70" y="328" font-family="Courier New, monospace" font-size="14" font-weight="700" fill="#AFC4D8">from foundations → products → scale</text>
+</svg>
