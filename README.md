@@ -10,7 +10,8 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=35F8FF&center=true&vCenter=true&width=820&height=42&lines=Backend+logic+%E2%86%92+APIs+%E2%86%92+Data+models+%E2%86%92+Cloud+%E2%86%92+Product+flows." alt="Typing animation"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=35F8FF&center=true&vCenter=true&width=820&height=42&lines=Backend+logic+%E2%86%92+APIs+%E2%86%92+Databases+%E2%86%92+Cloud+%E2%86%92+Product+flows.;.NET+8+%C2%B7+PostgreSQL+%C2%B7+Azure+%C2%B7+React+Native+%C2%B7+SaaS.;Real+company+experience.+Real+product+engineering." alt="Typing animation"/>
 
 </div>
 
