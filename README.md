@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/builtbysaqib/"><img src="https://img.shields.io/badge/LinkedIn-builtbysaqib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:saqibali.0748@gmail.com"><img src="https://img.shields.io/badge/Email-saqibali.0748%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=35F8FF&center=true&vCenter=true&width=820&height=42&lines=Backend+logic+%E2%86%92+APIs+%E2%86%92+Databases+%E2%86%92+Cloud+%E2%86%92+Product+flows.;.NET+8+%C2%B7+PostgreSQL+%C2%B7+Azure+%C2%B7+React+Native+%C2%B7+SaaS.;Real+company+experience.+Real+product+engineering." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=35F8FF&center=true&vCenter=true&width=820&height=42&lines=Backend+logic+%E2%86%92+APIs+%E2%86%92+Databases+%E2%86%92+Cloud+%E2%86%92+Product+flows.;.NET+8+%C2%B7+PostgreSQL+%C2%B7+Azure+%C2%B7+React+Native+%C2%B7+SaaS." alt="Typing animation"/>
 
 </div>
 
